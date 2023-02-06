@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
         print("This message is in the fifth commit !")
 
         print("This message is in the sixth commit !")
+
+        print("This message is in the seventh commit !")
     }
 }
