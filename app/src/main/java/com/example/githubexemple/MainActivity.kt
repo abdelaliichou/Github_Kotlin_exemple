@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         print("This message is in the third commit !")
+
+        print("This message is in the forth commit !")
     }
 }
