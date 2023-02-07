@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
 
         print("Just testing push in github !")
         
-         print("Just testing pull from github !")
+        print("Just testing pull from github !")
 
     }
 }
