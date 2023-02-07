@@ -26,5 +26,7 @@ class MainActivity : AppCompatActivity() {
 
         print("branch merge 2")
 
+        print("Just testing push in github !")
+
     }
 }
