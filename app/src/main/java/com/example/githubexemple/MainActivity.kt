@@ -24,5 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         print("master merge 1")
 
+        print("branch merge 2")
+
     }
 }
