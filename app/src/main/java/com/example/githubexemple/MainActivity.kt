@@ -22,5 +22,7 @@ class MainActivity : AppCompatActivity() {
 
         print("This is the merge 2 differance  !!!!!")
 
+        print("branch merge 2")
+
     }
 }
