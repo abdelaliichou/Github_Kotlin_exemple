@@ -32,5 +32,7 @@ class MainActivity : AppCompatActivity() {
         
         print("This is a pull request to the master branch !")
 
+        print("This is the second pull request from the branch !")
+
     }
 }
