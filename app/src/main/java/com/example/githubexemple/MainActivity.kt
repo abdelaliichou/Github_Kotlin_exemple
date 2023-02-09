@@ -24,5 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         print("branch merge 2")
 
+        print("This is a pull request to the master branch !")
+
     }
 }
