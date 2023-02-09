@@ -34,5 +34,9 @@ class MainActivity : AppCompatActivity() {
 
         print("This is the second pull request from the branch !")
 
+        val ali = Person("ichou abdelali",20)
+
+         print(ali.name)
+
     }
 }
