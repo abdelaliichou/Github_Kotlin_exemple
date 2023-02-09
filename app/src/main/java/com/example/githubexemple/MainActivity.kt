@@ -22,8 +22,14 @@ class MainActivity : AppCompatActivity() {
 
         print("This is the merge 2 differance  !!!!!")
 
+        print("master merge 1")
+
         print("branch merge 2")
 
+        print("Just testing push in github !")
+        
+        print("Just testing pull from github !")
+        
         print("This is a pull request to the master branch !")
 
     }
