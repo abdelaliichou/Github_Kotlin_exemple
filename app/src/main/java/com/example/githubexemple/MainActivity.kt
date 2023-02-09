@@ -29,6 +29,8 @@ class MainActivity : AppCompatActivity() {
         print("Just testing push in github !")
         
         print("Just testing pull from github !")
+        
+        print("This is a pull request to the master branch !")
 
     }
 }
